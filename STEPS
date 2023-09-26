@@ -1,0 +1,6 @@
+  1 Remove Duplicates Data
+	2 Replacing letters in columns for exemple : 'M' with 'Maried'  
+	3 Format cells currency , removing decimal zeros
+	4 Add column AgeBracket with IF formulas =  IF(L2 > 54; "Old";IF(L2 >= 31; "MiddleAge";IF(L2<31; "Adolecent")))
+	5 Create Pivot Tables Using Data in EditedDataSheet
+	6 Create the DashBord
